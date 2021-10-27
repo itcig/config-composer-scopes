@@ -1,0 +1,35 @@
+{
+	"name": "@itcig/config-composer-scopes",
+	"version": "1.1.4",
+	"license": "MIT",
+	"description": "Shareable Commitlint config enforcing composer package names as scopes",
+	"author": {
+		"name": "ITCIG",
+		"email": "it@capinfogroup.com"
+	},
+	"homepage": "https://github.com/itcig/config-composer-scopes#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/itcig/itcig.git",
+		"directory": "projects/js-packages/config-composer-scopes"
+	},
+	"main": "src/index.js",
+	"module": "src/index.js",
+	"files": [
+		"src"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {},
+	"dependencies": {
+		"globby": "^11.0.1",
+		"path": "^0.12.7"
+	},
+	"extra": {
+		"autotagger": true,
+		"autorelease": true,
+		"npmjs-autopublish": true,
+		"mirror-repo": "itcig/config-composer-scopes"
+	}
+}
