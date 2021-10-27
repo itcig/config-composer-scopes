@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-### [1.1.4](https://github.com/itcig/itcig/compare/@itcig/config-composer-scopes@1.1.3...@itcig/config-composer-scopes@1.1.4) (2021-10-27)
+### [1.1.5](https://github.com/itcig/itcig/compare/@itcig/config-composer-scopes@1.1.4...@itcig/config-composer-scopes@1.1.5) (2021-10-27)
 
 **Note:** Version bump only for package @itcig/config-composer-scopes
 
@@ -11,6 +11,10 @@ All notable changes to this project will be documented in this file. See
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+### [1.1.4](https://github.com/itcig/itcig/compare/@itcig/config-composer-scopes@1.1.3...@itcig/config-composer-scopes@1.1.4) (2021-10-27)
+
+**Note:** Version bump only for package @itcig/config-composer-scopes
 
 ### [1.1.3](https://github.com/itcig/itcig/compare/@itcig/config-composer-scopes@1.1.2...@itcig/config-composer-scopes@1.1.3) (2021-10-27)
 

@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/config-composer-scopes",
-	"version": "1.1.4",
+	"version": "1.1.5",
 	"license": "MIT",
 	"description": "Shareable Commitlint config enforcing composer package names as scopes",
 	"author": {
@@ -10,8 +10,7 @@
 	"homepage": "https://github.com/itcig/config-composer-scopes#readme",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/itcig/itcig.git",
-		"directory": "projects/js-packages/config-composer-scopes"
+		"url": "git+https://github.com/itcig/config-composer-scopes.git"
 	},
 	"main": "src/index.js",
 	"module": "src/index.js",
